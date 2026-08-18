@@ -1,0 +1,44 @@
+. Cursor AI IDE
+Cursor is an AI-powered code editor based on VS Code. It helps developers write, explain, modify, and debug code using AI.
+Basic steps:
+Install and open Cursor.
+Create or open a project.
+Write a prompt such as: “Create a responsive login page using HTML and CSS.”
+Ask AI to generate or modify the code.
+Review and test the generated code.
+Use AI Chat to explain errors or improve the program.
+
+Advantages of Cursor
+AI-assisted code generation.
+Can understand and work with project files.
+Helps find and fix coding errors.
+Provides code explanations.
+Supports natural-language programming.
+Useful for refactoring and improving existing code.
+Familiar interface for VS Code users.
+
+Disadvantages of Cursor
+Some advanced AI features may require a paid plan.
+AI-generated code can contain errors.
+Requires internet access for many AI features.
+Large projects can sometimes be difficult for AI to understand completely.
+Users still need programming knowledge to verify AI output.
+
+2. Replit AI IDE
+Replit is a browser-based development environment that allows users to write, run, and share programs online. Its AI features can help create applications from natural-language instructions.
+
+Advantages of Replit
+Works directly in a web browser.
+No complex local setup is required.
+AI can help generate application code.
+Easy to run and test programs.
+Projects can be shared easily.
+Supports many programming languages.
+Useful for beginners and learning.
+
+Disadvantages of Replit
+Internet connection is generally required.
+Some advanced features require paid plans.
+AI-generated applications may need manual debugging.
+Performance can depend on the online environment.
+Free-plan resources and features may be limited.
